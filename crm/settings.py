@@ -159,7 +159,7 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'singhakash1605@gmail.com'
-EMAIL_HOST_PASSWORD = 'slhemjwnnwalhupd'
+EMAIL_HOST_PASSWORD = 'p@ssw0rd@0695'
 
 AWS_ACCESS_KEY_ID = 'AKIA2WMUAPT4QT5LYIOC'
 AWS_SECRET_ACCESS_KEY = '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'
